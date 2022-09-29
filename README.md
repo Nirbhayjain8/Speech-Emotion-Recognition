@@ -27,6 +27,3 @@ pip3 install -r requirements.txt
 
 ## Challenge
 * Boost the 'Validation Accuracy' by Model modification or Data Augmentation
-
-## Contact
-* email: navalekanishk@gmail.com
